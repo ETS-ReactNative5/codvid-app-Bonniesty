@@ -8,12 +8,14 @@ Build Hello Applications, Run Hello applications on emulator and your phone.
 
 - Result:
 Screenshot of emulator and photo of app on my phone with broken screen. :(
+![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/photo2.jpg)
 
+![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/photo1.jpg)
 
  Step 3:  Develop use case to display a map. (Finished) 
-
 - Result:
 Screenshot of map of Boston
+![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/screenshot2.png)
 
 
 
