@@ -1,5 +1,13 @@
 # codvid-app-Bonniesty
-## HW7 Task
+ ## Install
+ ```
+ npm install
+ cd ios
+sudo gem install cocoapods
+pod install
+  ```
+
+## Task
  Step 1:  Setup your REACT Native Environment (Finished)
 
  Step 2:  Go through REACT native Tutorial (Finished)
