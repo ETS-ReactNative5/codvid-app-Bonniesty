@@ -13,13 +13,8 @@ Screenshot of emulator and photo of app on my phone with broken screen. :(
  Step 3:  Develop use case to display a map. (Finished) 
 - Result:
 Screenshot of map of Boston
+
 ![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/3.png)
-
-
-
-
-
-
 
  Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results.
  Step 5:  Overlay the data on the maps.
