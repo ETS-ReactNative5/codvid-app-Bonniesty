@@ -25,5 +25,9 @@ Screenshot of map of Boston
 ![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/3.png)
 
  Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results.
+ - Result:
+ Create a new Branch and test display data
+ 
+ 
  Step 5:  Overlay the data on the maps.
 
