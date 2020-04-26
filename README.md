@@ -28,6 +28,7 @@ Screenshot of map of Boston
  - Result:
  Create a new Branch and test display data
  
+ ![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/data1.png)
  
  Step 5:  Overlay the data on the maps.
 
