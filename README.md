@@ -101,3 +101,5 @@ API I used:
  ![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/map0.png)
  ![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/map1.png)
  ![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/map2.png)
+ ## Demo
+ ![Alt Text](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/demo.gif)
