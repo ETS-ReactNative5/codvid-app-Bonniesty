@@ -98,8 +98,7 @@ API I used:
  https://api.covid19api.com/live/country/[country_name]
   ```
  - Result and Demo:  
- ![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/map0.png)
- ![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/map1.png)
- ![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/map2.png)
+ ![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/map-all.png)
+ ![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/map-case.png)
  ## Demo
  ![Alt Text](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/demo.gif)
