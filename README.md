@@ -24,11 +24,14 @@ Screenshot of map of Boston
 
 ![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/3.png)
 
- Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results.
+ Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results.  (Finished) 
  - Result:
  Create a new Branch and test display data
  
  ![image](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/data1.png)
  
- Step 5:  Overlay the data on the maps.
+ Step 5:  Overlay the data on the maps.  (Finished) 
+ 
+ -Result:
+  First I call summary API to get the summary of world cases number. Then I use API to get country list that has cases. After that, for each, I get LIVE data from live API and show the data on the map for this country.
 
